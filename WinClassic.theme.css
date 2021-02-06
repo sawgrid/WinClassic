@@ -1,4 +1,68 @@
-//META{"name":"WinClassic","description":"WinCLassic - Support server: https://discord.gg/4GJvzEp or the Website link | THIS THEME IS NOT ON THE OFFICIAL REPO & NEVER WILL BE, GO TO THE GITHUB PAGE FOR UPDATES: https://github.com/dmack6464/WinClassic","author":"D Mack","version":"0.2","website":"https://discord.gg/4GJvzEp/","source":"https://github.com/dmack6464/WinClassic"}*//{}
+/*
+///////////////////////
+///98.css SCROLLBAR
+//////////////////////
+*/
+
+body *::-webkit-scrollbar {
+  width: 16px;
+  height: 16px;
+  background: none;
+}
+
+body *::-webkit-scrollbar-thumb, body *::-webkit-scrollbar-button {
+  width: 16px;
+  height: 16px;
+  background: silver;
+  box-shadow: inset 1px 1px #dfdfdf, inset -1px -1px gray;
+  border: 1px solid;
+  border-color: silver #000 #000 silver;
+}
+
+body *::-webkit-scrollbar-track {
+  image-rendering: optimizeSpeed;
+  image-rendering: pixelated;
+  image-rendering: optimize-contrast;
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTAuNSAyIDIiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+CjxtZXRhZGF0YT5NYWRlIHdpdGggUGl4ZWxzIHRvIFN2ZyBodHRwczovL2NvZGVwZW4uaW8vc2hzaGF3L3Blbi9YYnh2Tmo8L21ldGFkYXRhPgo8cGF0aCBzdHJva2U9IiNjMGMwYzAiIGQ9Ik0wIDBoMU0xIDFoMSIgLz4KPC9zdmc+");
+  background-position: 0 0;
+  background-repeat: repeat;
+  background-size: 2px;
+}
+
+body *::-webkit-scrollbar-button {
+  background-repeat: no-repeat;
+  background-size: 16px;
+}
+
+body *::-webkit-scrollbar-button:single-button:vertical:decrement {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTAuNSAxNiAxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj4KPG1ldGFkYXRhPk1hZGUgd2l0aCBQaXhlbHMgdG8gU3ZnIGh0dHBzOi8vY29kZXBlbi5pby9zaHNoYXcvcGVuL1hieHZOajwvbWV0YWRhdGE+CjxwYXRoIHN0cm9rZT0iIzAwMDAwMCIgZD0iTTcgNWgxTTYgNmgzTTUgN2g1TTQgOGg3IiAvPgo8L3N2Zz4=");
+}
+
+body *::-webkit-scrollbar-button:single-button:vertical:increment {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTAuNSAxNiAxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj4KPG1ldGFkYXRhPk1hZGUgd2l0aCBQaXhlbHMgdG8gU3ZnIGh0dHBzOi8vY29kZXBlbi5pby9zaHNoYXcvcGVuL1hieHZOajwvbWV0YWRhdGE+CjxwYXRoIHN0cm9rZT0iIzAwMDAwMCIgZD0iTTQgNWg3TTUgNmg1TTYgN2gzTTcgOGgxIiAvPgo8L3N2Zz4=");
+}
+
+body *::-webkit-scrollbar-button:single-button:horizontal:decrement {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTAuNSAxNiAxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj4KPG1ldGFkYXRhPk1hZGUgd2l0aCBQaXhlbHMgdG8gU3ZnIGh0dHBzOi8vY29kZXBlbi5pby9zaHNoYXcvcGVuL1hieHZOajwvbWV0YWRhdGE+CjxwYXRoIHN0cm9rZT0iIzAwMDAwMCIgZD0iTTggM2gxTTcgNGgyTTYgNWgzTTUgNmg0TTYgN2gzTTcgOGgyTTggOWgxIiAvPgo8L3N2Zz4=");
+}
+
+body *::-webkit-scrollbar-button:single-button:horizontal:increment {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTAuNSAxNiAxNiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj4KPG1ldGFkYXRhPk1hZGUgd2l0aCBQaXhlbHMgdG8gU3ZnIGh0dHBzOi8vY29kZXBlbi5pby9zaHNoYXcvcGVuL1hieHZOajwvbWV0YWRhdGE+CjxwYXRoIHN0cm9rZT0iIzAwMDAwMCIgZD0iTTYgM2gxTTYgNGgyTTYgNWgzTTYgNmg0TTYgN2gzTTYgOGgyTTYgOWgxIiAvPgo8L3N2Zz4=");
+}
+
+body *::-webkit-scrollbar-corner {
+  background: silver;
+}
+
+/* dakedres was here ;3 */
+
+
+
+/*
+////////////////////
+///WINCLASSIC THEME
+////////////////////
+*/
 
 @import url('https://fonts.googleapis.com/css?family=Tahoma&display=swap');
 
@@ -139,16 +203,8 @@ its up to you to fix them or wait for me to eventually fox them*/
     border: none !important;
     border-radius: 0px!important;
 }
-/* This will change the colour when you hover over any scroll bar. */ 
-::-webkit-scrollbar-thumb:hover {
-    background: #505050 !important; 
-    border-color:transparent !important;
-}
-/* This will change the colour when you click and drag any scroll bar */
-::-webkit-scrollbar-thumb:active {
-    background: #707070 !important;
-    border-color: transparent !important;
-}
+
+
 .scrollerFade-1Ijw5y .scroller-2FKFPG::-webkit-scrollbar-thumb, .scrollerFade-1Ijw5y .scroller-2FKFPG::-webkit-scrollbar-track {
     visibility: visible!important; 
 }
@@ -326,6 +382,7 @@ body,
 	height: 14px;
     top: -16px;
     padding: 0 4px;
+  left: .1px;
 }
 .channelTextArea-rNsIhG {
 	padding-top: 12px;
@@ -437,4 +494,67 @@ body,
 .children-19S4PO:after {
     border-right: #c4c0b8 1px solid;
     background: none;
+}
+
+/*
+///////////////////////
+///ADDITIONS
+//////////////////////
+*/
+
+/* Text Box */
+
+.textAreaSlate-1ZzRVj {
+	border-bottom:1px solid #3f3c5d;
+	border-right:1px solid #3f3c5d;
+	border-top:1px solid #dccec6;
+	border-left:1px solid #dccec6;
+}
+.channelTextArea-rNsIhG {
+	color: #000;
+	background: #d4d0c8;
+	background-color: #d4d0c8;
+	border-bottom:1px solid #3f3c5d;
+	border-right:1px solid #3f3c5d;
+	border-top:1px solid #000;
+	border-left:1px solid #dccec6;
+}
+
+.theme-light .form-2fGMdU:before {
+	border-right:1px solid #3f3c5d;
+	border-top:1px solid #000;
+	border-left:1px solid #dccec6;
+  background-color: #d4d0c8;
+  background: #d4d0c8;
+}
+
+/* Channel Info */
+.theme-light .children-19S4PO:after {
+	background: transparent;
+}
+
+/* Activity Panel */
+.activityPanel-28dQGo, .container-3baos1 {
+    background: #d4d0c8;
+	border-top:1px solid #000;
+  	border-bottom:1px solid #3f3c5d;
+}
+
+/* Channels */
+.content-1x5b-n {
+	background-color: var(--background-secondary);
+	color: #000;
+	margin: 0;
+	border-bottom:1px solid #848484;
+	border-top:1px solid #fff;
+}
+.modeUnread-1qO3K1 .name-23GUGE:hover {
+color: white;
+}
+.modeSelected-346R90 .name-23GUGE {
+    background-color: var(--background-modifier-selected);
+  color:white
+}
+.actionIcon-PgcMM2 {
+  color:white
 }
