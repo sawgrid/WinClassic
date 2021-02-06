@@ -560,12 +560,16 @@ color: white;
 }
 
 /* Members */
-.member-3-YXUe {
+.member-3-YXUe, .layout-2DM8Md {
 	background-color: var(--background-secondary);
 	color: #000;
 	margin: 0;
 	border-bottom:1px solid #848484;
 	border-top:1px solid #fff;
+}
+
+.selected-aXhQR6 .layout-2DM8Md  {
+  color: white
 }
 
 .activityText-yGKsKm:hover, .icon-15YQ1T:hover {
@@ -580,5 +584,14 @@ color: white;
 	border-top:1px solid #fff;
 }
 
+.guilds-1SWlCJ .scroller-2TZvBN {
+    background-color: var(--background-modifier-selected);
+}
 
-
+.circleIconButton-jET_ig, .childWrapper-anI2G9 {
+	background-color: var(--background-secondary);
+	color: #000;
+	margin: 0;
+	border-bottom:1px solid #848484;
+	border-top:1px solid #fff;
+}
