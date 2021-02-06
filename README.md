@@ -1,11 +1,10 @@
-[dmackserv]: https://discord.gg/pB2SmhC
-# WinClassic
-A Discord theme that imitates the appearance of the Windows Classic theme.<br>
-<br>
-This theme requires the Discord light theme to be enabled in User Settings > Appearance<br>
-<br>
+<h1 align="center">WinClassic (ALPHA)</h1>
+A Discord theme that imitates the appearance of the Windows Classic theme.
+-----
 
-<br>
-<p align="center"><img src="./01.png" alt="WinClassic Example"></p>
-<p align="center"><img src="./02.png" alt="WinClassic Example"></p>
-<p align="center"><img src="./03.png" alt="WinClassic Example"></p>
+# Things to note: 
+* This is a fork
+* This is in alpha stages, so it's barely usable and things are broken
+* The CSS is spagethi and needs to be organized
+* You should really only use this if you want to give feedback, contribute, or you're just that deprived
+
