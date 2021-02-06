@@ -1,6 +1,5 @@
 <h1 align="center">WinClassic (ALPHA)</h1>
 A Discord theme that imitates the appearance of the Windows Classic theme.
------
 
 # Things to note: 
 * This is a fork
