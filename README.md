@@ -14,7 +14,7 @@
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-* Download [WinClassic.user.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
+* Download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
 * Powercord and Vizality users
