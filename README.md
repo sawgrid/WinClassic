@@ -20,7 +20,7 @@
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/WinClassic`
 * Goosemod users
-  * Download [WinClassicTheme.js](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassicTheme.js) and import the file from the "Local Modules" tab.
+  * ~~Download [WinClassicTheme.js](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassicTheme.js) and import the file from the "Local Modules" tab.~~
 
 ## Devs, Contributors, and other Creditors:
 
