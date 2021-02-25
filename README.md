@@ -1,7 +1,7 @@
 <h1 align="center">WinClassic (ALPHA)</h1>
 <p align="center">Windows Classic theme for Discord - It sucks less.</p>
 
-# ![screenshot](https://imgur.com/RjsgItd.png)
+# ![screenshot](https://files.catbox.moe/qcjfyz.png)
 
 ## Things to note: 
 * This is a fork
