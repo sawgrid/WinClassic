@@ -1,13 +1,13 @@
-<h1 align="center">WinClassic (ALPHA)</h1>
+<h1 align="center">WinClassic (BETA)</h1>
 <p align="center">Windows Classic theme for Discord - It sucks less.</p>
 
 # ![screenshot](https://files.catbox.moe/qcjfyz.png)
 
 ## Things to note: 
 * This is a fork
-* This theme is in alpha stages - **things will be broken**
-* The CSS is spagethi and needs to be organized
-* You should really only use this if you want to give feedback, contribute, or you're just that deprived
+* This theme is in beta stages - **things will be kinda broken**
+* The CSS needs to be organized
+* Feedback and contributions are heavily encouraged
 
 
 ## How to install:
