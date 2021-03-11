@@ -6,6 +6,7 @@
 ## Things to note: 
 * This is a fork
 * This theme is in beta stages - **things will be kinda broken**
+* This theme uses the fonts Tahoma and Whitney
 * The CSS needs to be organized
 * Feedback and contributions are heavily encouraged
 
