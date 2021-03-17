@@ -4,10 +4,10 @@
 # ![screenshot](https://files.catbox.moe/qcjfyz.png)
 
 ## Things to note: 
-* This is a fork
+* This is a fork (based on dmack6464 and forkiesassds work)
 * This theme is in beta stages - **things will be kinda broken**
 * This theme uses the fonts Tahoma and Whitney
-* The CSS needs to be organized
+* The ![CSS](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/SlideToUnlock.css) needs to be organized
 * Feedback and contributions are heavily encouraged
 
 
@@ -25,6 +25,6 @@
 
 ## Devs, Contributors, and other Creditors:
 
-| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Euphorianic" target="_blank"> <img src="https://avatars.githubusercontent.com/u/73035923?s=460&u=1c5fb61c01699a43288a53ff453b70254ba714b5&v=4" alt="" width="96px" height="96px"> </a> |
-|:-:|:-:|
-| SlippingGitty | Pavol/Euphorianic |
+| <a href="https://github.com/SlippingGitty" target="_blank"> <img src="https://avatars.githubusercontent.com/u/76500838?s=460&u=109f1c2012f3e452251391807262ed098f45ec94&v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/Euphorianic" target="_blank"> <img src="https://avatars.githubusercontent.com/u/73035923?s=460&u=1c5fb61c01699a43288a53ff453b70254ba714b5&v=4" alt="" width="96px" height="96px"> </a> |<a href="https://github.com/Tropix126" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/42101043?s=460&u=f44f07cf7122e1ba61a9e9e8ca83d133c741d011&v=4" alt="" width="96px" height="96px"> </a> |
+|:-:|:-:|:-:|
+| SlippingGitty | Pavol/Euphorianic | Tropical |
