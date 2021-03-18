@@ -7,7 +7,7 @@
 * This is a fork (based on dmack6464 and forkiesassds work)
 * This theme is in beta stages - **things will be kinda broken**
 * This theme uses the fonts Tahoma and Whitney
-* The ![CSS](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/SlideToUnlock.css) needs to be organized
+* The ![CSS](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css) needs to be organized
 * Feedback and contributions are heavily encouraged
 
 
