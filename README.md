@@ -1,14 +1,12 @@
-<h1 align="center">WinClassic (BETA)</h1>
+<h1 align="center">WinClassic</h1>
 <p align="center">Windows Classic theme for Discord - It sucks less.</p>
 
 # ![screenshot](https://files.catbox.moe/qcjfyz.png)
 
 ## Things to note: 
 * This is a fork (based on dmack6464 and forkiesassds work)
-* This theme is in beta stages - **things will be kinda broken**
 * This theme uses the fonts Tahoma and Whitney
-* The ![CSS](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css) needs to be organized
-* Feedback and contributions are heavily encouraged
+* Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests. You can find the ![CSS here!](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
 
 
 ## How to install:
