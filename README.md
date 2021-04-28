@@ -6,7 +6,7 @@
 ## Things to note: 
 * This is a fork (based on dmack6464 and forkiesassds work)
 * This theme uses the fonts Tahoma and Whitney
-* Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests. You can find the ![CSS here!](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
+* Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests. You can find the [CSS here!](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
 
 
 ## How to install:
