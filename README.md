@@ -9,14 +9,14 @@
 * Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests. You can find the [CSS here!](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
 
 
-## How to install:
+## How to use this theme:
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-* Download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
+* BetterDiscord users should download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
-* Powercord and Vizality users
+* Powercord users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/WinClassic`
 * Goosemod users
   * Download from the Module Store
