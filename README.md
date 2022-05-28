@@ -11,15 +11,17 @@
 
 ## How to use this theme:
 
-* Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
+#### Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp). Browser users should look into [Stylus](https://github.com/openstyles/stylus).
 
-* BetterDiscord users should download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
-  * inject the CSS file with BeautifulDiscord
-  * place in your BetterDiscord themes folder
+* BetterDiscord users can download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
+  * Inject the CSS file with BeautifulDiscord
+  * Place in the BetterDiscord themes folder
 * Powercord users
-  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/WinClassic`
+  * Open a terminal in the themes folder, and type `git clone https://github.com/SlippingGitty/WinClassic`
 * Goosemod users
-  * Download from the Module Store
+  * Available now on the the Module Store.
+* Stylus
+  * Head [here](https://github.com/SlippingGitty/WinClassic/raw/master/WinClassic.user.css) to install.
 
 ## Devs, Contributors, and other Creditors:
 
