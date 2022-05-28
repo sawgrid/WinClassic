@@ -1,0 +1,15 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         WinClassic
+    @description  It sucks less.
+    @author       Vozer
+    @namespace    https://github.com/SlippingGitty/WinClassic
+    @version      1.0.0
+    ==/UserStyle== */
+
+/* 
+////////////////
+///IMPORT CSS
+///////////////
+*/
+@import url("https://slippinggitty.github.io/WinClassic.css");
