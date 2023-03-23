@@ -3,25 +3,22 @@
 
 # ![screenshot](https://files.catbox.moe/qcjfyz.png)
 
-## Things to note: 
+## How to use 📖
+### Discord App
+* BetterDiscord, Vencord, and Openasar users can grab the [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
+  * Place the file in the BetterDiscord themes folder
+  * Follow the instructions on Vencord's themes tab
+  * Copy the text in the file, and paste it in Openasar's quick CSS text field
+* Replugged users can
+  * Open a terminal in the themes folder, and type `git clone https://github.com/SlippingGitty/WinClassic`
+
+### Browser 
+ * [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/SlippingGitty/WinClassic/raw/master/WinClassic.user.css)
+
+## Things to note 🖌️
 * This is a fork (based on dmack6464 and forkiesassds work)
 * This theme uses the fonts Tahoma and Whitney
-* Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests. You can find the [CSS here!](https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
-
-
-## How to use this theme:
-
-#### Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp). Browser users should look into [Stylus](https://github.com/openstyles/stylus).
-
-* BetterDiscord users can download [WinClassic.theme.css](https://raw.githubusercontent.com/SlippingGitty/WinClassic/master/WinClassic.theme.css) and either
-  * Inject the CSS file with BeautifulDiscord
-  * Place in the BetterDiscord themes folder
-* Powercord users
-  * Open a terminal in the themes folder, and type `git clone https://github.com/SlippingGitty/WinClassic`
-* Goosemod users
-  * Available now on the the Module Store.
-* Stylus
-  * Head [here](https://github.com/SlippingGitty/WinClassic/raw/master/WinClassic.user.css) to install.
+* Things break, and not everything is covered. Feedback and contributions are heavily encouraged. You can help by reporting issues, and making pull requests (https://github.com/SlippingGitty/slippinggitty.github.io/blob/main/WinClassic.css)
 
 ## Devs, Contributors, and other Creditors:
 
