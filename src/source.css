@@ -1,5 +1,3 @@
-/* License https://github.com/dmack6464/WinClassic/blob/master/LICENSE */
-
  /*
 ///////////////////////
 ///98.css SCROLLBAR
@@ -186,10 +184,10 @@
 
 
  /*
- ////////////////////
- ///WINCLASSIC THEME
- ////////////////////
- */
+////////////////////
+///WINCLASSIC THEME
+////////////////////
+*/
 
  @import url('https://fonts.googleapis.com/css?family=Tahoma&display=swap');
 
@@ -298,7 +296,7 @@
 
 
  /* fuck it scrollbars are broken i cant figure this shit out
- its up to you to fix them or wait for me to eventually fox them*/
+its up to you to fix them or wait for me to eventually fox them*/
 
  /*Scrollbars*/
  ::-webkit-scrollbar-corner {
@@ -404,9 +402,15 @@
  	min-height: 21px;
  }
 
- .side-2ur1Qk .item-3XjbnG {
+ .side-1lrxIh .item-2GWPIy {
  	height: 21px;
  	padding: 0;
+ 	margin: 0;
+ }
+
+ .labelContainer-35-WEd {
+ 	height: 21px;
+ 	padding: 1;
  	margin: 0;
  }
 
@@ -460,6 +464,50 @@
  	margin: 0;
  	border-bottom: 1px solid #848484;
  	border-top: 1px solid #fff;
+ }
+
+ .bd-controls>.bd-addon-button svg {
+ 	fill: black;
+ }
+
+ .bd-button, .bd-addon-button {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-bottom: 1px solid #848484;
+ 	border-right: 1px solid #848484;
+ 	border-top: 1px solid #fff;
+ 	border-left: 1px solid #fff;
+ }
+
+ .bd-addon-list .bd-addon-header {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-right: 1px solid #848484;
+ 	border-top: 1px solid #fff;
+ 	border-left: 1px solid #fff;
+ }
+
+ .bd-description-wrap {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-right: 1px solid #848484;
+ 	border-left: 1px solid #fff;
+ }
+
+ .bd-addon-list .bd-footer {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-right: 1px solid #848484;
+ 	border-left: 1px solid #fff;
+ }
+
+ button.bd-button.bd-addon-button.bd-button-danger {
+ 	background: #C0C0C0 !important;
+ 	background-color: #C0C0C0 !important;
  }
 
  .theme-light input {
@@ -581,10 +629,10 @@
 
 
  /*
- ///////////////////////
- ///ADDITIONS
- //////////////////////
- */
+///////////////////////
+///ADDITIONS
+//////////////////////
+*/
 
  .avatar-3uk_u9 .wrapper-3t9DeA {
  	border-radius: 0;
@@ -741,6 +789,7 @@
  	border-left: 1px solid #fff
  }
 
+
  .circleIconButton-1QV--U, .childWrapper-1j_1ub {
  	color: #000;
  	background: #C0C0C0;
@@ -838,8 +887,8 @@
  	border-left: 1px solid #fff;
  }
 
- .peopleListItem-u6dGxF:hover {
- 	color: #FFFFFF;
+ .peopleListItem-u6dGxF:hover .username-Qpc78p, .peopleListItem-u6dGxF:hover .text-MPIeXO {
+ 	color: #FFFFFF !important;
  }
 
  .messageContainer-3VTXBC, .messages-23can0, .messageGroupWrapper-1jf_7C {
@@ -926,7 +975,15 @@
  	border-left: 1px solid #fff;
  }
 
-
+ #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(1), #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(2), #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(3) {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-bottom: 1px solid #848484;
+ 	border-right: 1px solid #848484;
+ 	border-top: 1px solid #fff;
+ 	border-left: 1px solid #fff;
+ }
 
  .size32-1NLMUP {
  	color: #000;
@@ -1003,7 +1060,7 @@
 
 
  /* Settings */
- .side-2ur1Qk .item-3XjbnG {
+ .side-1lrxIh .item-2GWPIy {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1056,11 +1113,28 @@
  	border-left: 1px solid #fff !important;
  }
 
- /* Checkboxes - Slate Theme - Tropical */
+ /* Send Button */
+ .separator-3ng7S5 {
+ 	margin-left: 0px;
+ }
+
+ #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.chat-2ZfjoI>div.content-1jQy2l>main>form>div>div>div>div.buttons-uaqb-5>div.separator-3ng7S5>div>button {
+ 	color: #000;
+ 	background: #C0C0C0;
+ 	background-color: #C0C0C0;
+ 	border-bottom: 1px solid #848484;
+ 	border-right: 1px solid #848484;
+ 	border-top: 1px solid #fff;
+ 	border-left: 1px solid #fff;
+ 	padding-right: 10px;
+ }
+
+ /* TROPICAL - CHECKBOXES - SLATE THEME - https://github.com/DiscordStyles/Slate/blob/master/LICENSE.md */
+ /* epic */
  #app-mount .container-1QtPKm, .input-125oad,
  #app-mount .container-1QtPKm, .input-125oad,
  #app-mount .checkboxWrapper-2fDzaA .input-2XRLou,
- #app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
+ #app-mount .checkboxWrapper-2fDzaA .input-3xr72x, .theme-light input {
  	margin: 0;
  	opacity: 1;
  	height: 14px !important;
@@ -1073,7 +1147,7 @@
  }
 
  #app-mount .container-1QtPKm,
- #app-mount .checkboxWrapper-2fDzaA {
+ #app-mount .checkboxWrapper-2fDzaA, .bd-switch input:checked+.bd-switch-body, .bd-switch-body {
  	width: auto;
  	border-radius: 0;
  	background: transparent !important;
@@ -1089,7 +1163,7 @@
  }
 
  #app-mount .container-1QtPKm .slider-HJFN2i,
- #app-mount .checkboxWrapper-2fDzaA .slider-HJFN2i {
+ #app-mount .checkboxWrapper-2fDzaA .slider-HJFN2i, .bd-switch input:checked+.bd-switch-body, .bd-switch-body {
  	display: none;
  }
 
@@ -1127,6 +1201,10 @@
  	border-right: 1px solid #848484;
  	border-top: 1px solid #fff;
  	border-left: 1px solid #fff;
+ }
+
+ .medium-13kyaW .tag-15zcD_ {
+ 	height: 30px !important;
  }
 
  .theme-light .header-JHwfVI, .theme-light .header-2TLOnc {
@@ -1215,7 +1293,7 @@
  }
 
  .barButtonAlt-TQoCdZ, .barButtonMain-2GIx4o {
- 	color: #000;
+ 	color: #000 !important;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
  	border-bottom: 1px solid #848484;
@@ -1342,6 +1420,16 @@
  	border-top: 1px solid #ffffff00 !important;
  	border-left: 1px solid #ffffff00 !important;
  }
+
+ /* Guilds */
+ .childWrapper-1j_1ub, .wrapper-3kah-n {
+ 	background-color: #C0C0C0;
+ 	border-bottom: 1px solid #848484;
+ 	border-right: 1px solid #848484;
+ 	border-top: 1px solid #fff;
+ 	border-left: 1px solid #fff
+ }
+
 
 
  /* Ripped Directly from Saltssaumure's BorderRadient */
