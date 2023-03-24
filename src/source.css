@@ -1,3 +1,5 @@
+/* License https://github.com/dmack6464/WinClassic/blob/master/LICENSE */
+
  /*
 ///////////////////////
 ///98.css SCROLLBAR
@@ -1134,7 +1136,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  #app-mount .container-1QtPKm, .input-125oad,
  #app-mount .container-1QtPKm, .input-125oad,
  #app-mount .checkboxWrapper-2fDzaA .input-2XRLou,
- #app-mount .checkboxWrapper-2fDzaA .input-3xr72x, .theme-light input {
+ #app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
  	margin: 0;
  	opacity: 1;
  	height: 14px !important;
