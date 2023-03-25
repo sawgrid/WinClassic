@@ -1,4 +1,5 @@
-/* License https://github.com/dmack6464/WinClassic/blob/master/LICENSE */
+
+ /* License https://github.com/dmack6464/WinClassic/blob/master/LICENSE */
 
  /*
 ///////////////////////
@@ -1149,7 +1150,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  #app-mount .container-1QtPKm,
- #app-mount .checkboxWrapper-2fDzaA, .bd-switch input:checked+.bd-switch-body, .bd-switch-body {
+ #app-mount .checkboxWrapper-2fDzaA{
  	width: auto;
  	border-radius: 0;
  	background: transparent !important;
@@ -1165,7 +1166,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  #app-mount .container-1QtPKm .slider-HJFN2i,
- #app-mount .checkboxWrapper-2fDzaA .slider-HJFN2i, .bd-switch input:checked+.bd-switch-body, .bd-switch-body {
+ #app-mount .checkboxWrapper-2fDzaA .slider-HJFN2i {
  	display: none;
  }
 
