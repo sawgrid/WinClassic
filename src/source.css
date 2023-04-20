@@ -1,13 +1,11 @@
- /**
- * @name DWinClassic
- * @author SlippingGitty
- * @version 03.2023
- * @description It sucks less.
- * @source https://github.com/SlippingGittys-Discord-Themes/WinClassic/
- * @website https://slippinggitty.github.io/
+
+ /* License https://github.com/dmack6464/WinClassic/blob/master/LICENSE */
+
+ /*
+///////////////////////
+///98.css SCROLLBAR
+//////////////////////
 */
-
-
 
  body *::-webkit-scrollbar {
  	width: 16px;
