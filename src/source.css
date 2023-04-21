@@ -761,12 +761,13 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Members */
- .member-2gU6Ar, .layout-1qmrhw:hover {
- 	background-color: var(--background-secondary);
- 	margin: 0;
- 	border-bottom: 1px solid #848484;
- 	border-top: 1px solid #fff;
- }
+
+ .member-2gU6Ar{
+	background-color: var(--background-secondary);
+	margin: 0;
+	border-bottom: 1px solid #848484;
+	border-top: 1px solid #fff;
+}
 
  .selected-1-Z6gm .layout-1qmrhw {
  	color: #FFFFFF
@@ -775,6 +776,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  .activityText-1rR-8O:hover, .icon-Lupfh-:hover {
  	color: #FFFFFF;
  }
+
+ .member-2gU6Ar:hover .activityText-1rR-8O{
+	color: #FFFFFF;
+}
+
 
  /* Server name */
  .container-1-ERn5 {
@@ -931,12 +937,6 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .member-2gU6Ar, .layout-1qmrhw:hover {
- 	background-color: var(--background-secondary);
- 	margin: 0;
- 	border-bottom: 1px solid #848484;
- 	border-top: 1px solid #fff;
- }
 
  .selected-1-Z6gm .layout-1qmrhw {
  	color: #FFFFFF
