@@ -1,9 +1,0 @@
-{
-    "name": "WinClassic",
-    "description": "It sucks less.",
-    "version": "2021.02.05.0.1",
-    "author": "dmack6464, forkiesassds, SlippingGitty",
-    "theme": "WinClassic.theme.css",
-    "consent": "false",
-    "license": "MIT"
-}
