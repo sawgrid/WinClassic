@@ -57,7 +57,7 @@
  	background: #c0c0c0;
  }
 
- .scroller-kQBbkU::-webkit-scrollbar-track {
+ .scroller__1f96e::-webkit-scrollbar-track {
  	margin-bottom: 0px;
  }
 
@@ -84,7 +84,7 @@
 
  /*Source*/
 
- .typeWindows-2-g3UY {
+ .typeWindows__5fa63 {
  	position: relative;
  	display: flex;
  	align-items: center;
@@ -96,7 +96,7 @@
  	z-index: 9999;
  }
 
- .winButton-3UMjdg {
+ .winButton__88672 {
  	top: unset;
  	width: 16px;
  	height: 14px;
@@ -106,31 +106,31 @@
  	background-repeat: no-repeat;
  }
 
- .winButton-3UMjdg:active {
+ .winButton__88672:active {
  	box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
  }
 
- .winButtonClose-3Q8ZH5 {
+ .winButtonClose__73489 {
  	margin-left: 2px;
  	background-position: top 3px left 4px;
  	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='8' height='7' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0 0h2v1h1v1h2V1h1V0h2v1H7v1H6v1H5v1h1v1h1v1h1v1H6V6H5V5H3v1H2v1H0V6h1V5h1V4h1V3H2V2H1V1H0V0z' fill='%23000'/%3E%3C/svg%3E");
  }
 
- .winButton-3UMjdg:nth-last-child(2) {
+ .winButton__88672:nth-last-child(2) {
  	background-position: top 2px left 3px;
  	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='9' height='9' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9 0H0v9h9V0zM8 2H1v6h7V2z' fill='%23000'/%3E%3C/svg%3E");
  }
 
- .winButton-3UMjdg:last-child {
+ .winButton__88672:last-child {
  	background-position: bottom 3px left 4px;
  	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='6' height='2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23000' d='M0 0h6v2H0z'/%3E%3C/svg%3E");
  }
 
- .winButton-3UMjdg svg {
+ .winButton__88672 svg {
  	display: none;
  }
 
- .wordmarkWindows-2dq6rw {
+ .wordmarkWindows__05c46 {
  	top: 0;
  	left: 0;
  	padding: 0 3px;
@@ -142,15 +142,15 @@
  	background-image: var(--classic-titlebar-inactive);
  }
 
- .app-focused .wordmarkWindows-2dq6rw {
+ .app-focused .wordmarkWindows__05c46 {
  	background-image: var(--classic-titlebar-active);
  }
 
- .app-focused .wordmarkWindows-2dq6rw::before {
+ .app-focused .wordmarkWindows__05c46::before {
  	opacity: 1;
  }
 
- .wordmarkWindows-2dq6rw::before {
+ .wordmarkWindows__05c46::before {
  	content: var(--classic-titlebar-wordmark-content);
  	height: var(--classic-titlebar-height);
  	z-index: 1;
@@ -165,12 +165,12 @@
  	font-smooth: always;
  }
 
- .wordmarkWindows-2dq6rw svg {
+ .wordmarkWindows__05c46 svg {
  	display: none;
  }
 
  .platform-win #app-mount,
- .platform-win .backdrop-2ByYRN,
+ .platform-win .backdrop__7e89b,
  .platform-win .backdropWithLayer-3_uhz4 {
  	padding: var(--classic-app-padding);
  	box-sizing: border-box;
@@ -178,9 +178,9 @@
  	box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #dfdfdf, inset -2px -2px grey, inset 2px 2px #fff;
  }
 
- .platform-win .bg-1QIAus,
- .platform-win .layer-86YKbF,
- .platform-win .standardSidebarView-E9Pc3j {
+ .platform-win .bg__7adbf,
+ .platform-win .layer_e552e0,
+ .platform-win .standardSidebarView__1129a {
  	top: 0;
  	padding-top: 0;
  }
@@ -388,7 +388,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	font-family: Tahoma, Whitney !important;
  }
 
- .form-3gdLxP {
+ .form__13a2c {
  	background: #C0C0C0;
  	color: #000;
  }
@@ -405,19 +405,19 @@ its up to you to fix them or wait for me to eventually fox them*/
  	min-height: 21px;
  }
 
- .side-1lrxIh .item-2GWPIy {
+ .side_b4b3f6 .item__48dda {
  	height: 21px;
  	padding: 0;
  	margin: 0;
  }
 
- .labelContainer-35-WEd {
+ .labelContainer_bc2861 {
  	height: 21px;
  	padding: 1;
  	margin: 0;
  }
 
- .form-3gdLxP,
+ .form__13a2c,
  .item-1Yvehc {
  	margin: 0;
  }
@@ -446,14 +446,14 @@ its up to you to fix them or wait for me to eventually fox them*/
  	mask: none;
  }
 
- .header-2w6VV8 {
+ .header__3d25c {
  	overflow: hidden;
  	height: 17px;
  	padding: 0px 4px !important;
  	margin: 0;
  }
 
- .flexChild-3PzYmX h4 {
+ .flexChild__6e093 h4 {
  	margin-top: -2px;
  	font-size: 12px;
  	color: #fff;
@@ -518,7 +518,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	background-color: #fff;
  }
 
- .channelTextArea-1FufC0 {
+ .channelTextArea__2e60f {
  	padding-top: 12px;
  	margin-bottom: 13px;
  }
@@ -550,15 +550,15 @@ its up to you to fix them or wait for me to eventually fox them*/
  .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
  .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG,
  .header-2o-2hj:hover .name-3YKhmS,
- .clickable-28SzVr:hover .activity-E-0FeD,
+ .clickable__17ccb:hover .activity-E-0FeD,
  .selected-37j_iU .actionIcon-2Hi9ZG,
  .containerDefault-1ZnADq:hover .actionIcon-2Hi9ZG {
  	color: #fff;
  	text-shadow: none;
  }
 
- .activityPanel-9icbyU,
- .container-YkUktl {
+ .activityPanel__22355,
+ .container_ca50b9 {
  	background: #C0C0C0;
  	border-top: 1px solid #fff;
  }
@@ -575,20 +575,20 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  .inner-zqa7da,
- .search-39IXmY,
- .theme-light input, .searchBar-3TnChZ .searchBarComponent-3N7dCG {
+ .search__07df0,
+ .theme-light input, .searchBar_e4ea2a .searchBarComponent__22760 {
  	border-bottom: 1px solid #fff;
  	border-right: 1px solid #fff;
  	border-top: 1px solid #404040;
  	border-left: 1px solid #404040;
  }
 
- #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.chat-2ZfjoI>div.content-1jQy2l>main>form>div>div>div>div.buttons-uaqb-5>button,
- .iconWrapper-2awDjA,
- .attachButton-_ACFSu,
+ #app-mount>div.appAsidePanelWrapper__714a6>div.notAppAsidePanel__9d124>div.app_b1f720>div>div.layers_a40797.layers__12c9f>div>div>div>div>div.chat__52833>div.content__1a4fe>main>form>div>div>div>div.buttons_ce5b56>button,
+ .iconWrapper_af9215,
+ .attachButton_b1db83,
  .cardPrimary-3qRT__,
  .cardPrimaryEditable-2mz_3i,
- .typing-2J1mQU {
+ .typing__6fd1d {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -598,7 +598,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .container-ZMc96U.themed-Hp1KC_,
+ .container__11d72.themed_b152d4,
  .header-2o-2hj {
  	background: #C0C0C0;
  	border-bottom: 1px solid #848484;
@@ -625,7 +625,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #848484;
  }
 
- .children-3xh0VB:after {
+ .children__32014:after {
  	border-right: #c4c0b8 1px solid;
  	background: none;
  }
@@ -646,13 +646,13 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Text Box */
- .textAreaSlate-9-y-k2 {
+ .textAreaSlate_e0e383 {
  	border-top: 1px solid #dccec6;
  	border-left: 1px solid #dccec6;
  }
 
 
- .channelTextArea-1FufC0 {
+ .channelTextArea__2e60f {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -661,11 +661,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #000;
  }
 
- .childWrapper-1j_1ub, .wrapper-3kah-n {
+ .childWrapper__01b9c, .wrapper_d281dd {
  	border-radius: 1px;
  }
 
- .theme-light .form-3gdLxP:before {
+ .theme-light .form__13a2c:before {
  	border-right: 1px solid #3f3c5d;
  	border-top: 1px solid #000;
  	border-left: 1px solid #dccec6;
@@ -678,30 +678,30 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
 
- .scrollableContainer-15eg7h {
+ .scrollableContainer__33e06 {
  	overflow-x: hidden;
  	overflow-y: hidden;
  }
 
- .emojiButtonHovered-s44uQ8, .emojiButtonNormal-35P0_i {
+ .emojiButtonHovered__4c6c4, .emojiButtonNormal__73cd3 {
  	padding-left: 10px;
  	padding-right: 10px;
  	margin-left: 0px;
  }
 
  /* Channel Info */
- .theme-light .children-3xh0VB:after {
+ .theme-light .children__32014:after {
  	background: transparent;
  }
 
  /* Activity Panel */
- .activityPanel-9icbyU, .container-YkUktl {
+ .activityPanel__22355, .container_ca50b9 {
  	background: #C0C0C0 !important;
  	border-top: 1px solid #000;
  	border-bottom: none;
  }
 
- .container-1oAagU {
+ .container__0a6a9 {
  	color: #000 !important;
  	background: #C0C0C0 !important;
  	background-color: #C0C0C0 !important;
@@ -710,7 +710,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff !important;
  }
 
- .card-YtRIQ2 {
+ .card_f887fe {
  	color: #000 !important;
  	background: #C0C0C0 !important;
  	background-color: #C0C0C0 !important;
@@ -721,7 +721,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Channels */
- .content-1gYQeQ {
+ .wrapper__7bcde {
  	background-color: var(--background-secondary);
  	color: #000;
  	margin: 0;
@@ -729,25 +729,25 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #fff;
  }
 
- .modeUnread-3Cxepe .name-28HaxV:hover {
+ .modeUnread_f74c03 .name__8d1ec:hover {
  	color: #FFFFFF;
  }
 
- .modeSelected-3DmyhH .name-28HaxV {
+ .modeSelected__487d6 .name__8d1ec {
  	background-color: var(--background-modifier-selected);
  	color: #FFFFFF
  }
 
- .actionIcon-2sw4Sl {
+ .actionIcon_d679b5 {
  	color: #FFFFFF
  }
 
- .modeUnread-3Cxepe .name-28HaxV {
+ .modeUnread_f74c03 .name__8d1ec {
  	font-weight: 700;
  	font-style: italic;
  }
 
- .modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
+ .modeSelected__487d6 .wrapper__7bcde, .modeSelected__487d6:hover .wrapper__7bcde {
  	background-color: var(--background-modifier-selected);
  	border-bottom: 1px solid #000;
  	border-right: 1px solid #000;
@@ -756,41 +756,41 @@ its up to you to fix them or wait for me to eventually fox them*/
  	;
  }
 
- .interactiveSelected-29CP8y {
+ .interactiveSelected_ec846b {
  	color: #FFFFFF
  }
 
  /* Members */
 
- .member-2gU6Ar{
+ .member_aa4760{
 	background-color: var(--background-secondary);
 	margin: 0;
 	border-bottom: 1px solid #848484;
 	border-top: 1px solid #fff;
 }
 
- .selected-1-Z6gm .layout-1qmrhw {
+ .selected__9800b .layout_bb8e67 {
  	color: #FFFFFF
  }
 
- .activityText-1rR-8O:hover, .icon-Lupfh-:hover {
+ .activityText__47ec1:hover, .icon_d942d4:hover {
  	color: #FFFFFF;
  }
 
- .member-2gU6Ar:hover .activityText-1rR-8O{
+ .member_aa4760:hover .activityText__47ec1{
 	color: #FFFFFF;
 }
 
 
  /* Server name */
- .container-1-ERn5 {
+ .container__7c79d {
  	color: #000;
  	margin: 0;
  	border-bottom: 1px solid #848484;
  }
 
  /* Guilds bar */
- .scroller-3X7KbA {
+ .scroller__3d071 {
  	background-color: var(--background-modifier-selected);
  	border-bottom: 1px solid #848484;
  	border-right: 1px solid #848484;
@@ -799,7 +799,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
 
- .circleIconButton-1QV--U, .childWrapper-1j_1ub {
+ .circleIconButton-1QV--U, .childWrapper__01b9c {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -809,7 +809,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+ .wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c, .wrapper_d281dd:hover .childWrapper__01b9c {
  	background-color: #848484;
  	color: #000;
  	margin: 0;
@@ -817,7 +817,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #fff;
  }
 
- .closedFolderIconWrapper-3tRb2d, .expandedFolderIconWrapper-3RwQpD {
+ .closedFolderIconWrapper__7321f, .expandedFolderIconWrapper__458cf {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -827,7 +827,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .circleIconButton-1VxDrg {
+ .circleIconButton_d8df29 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -838,7 +838,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
 
- .item-2LIpTv {
+ .item_f9d377 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -850,7 +850,7 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* People List */
- .peopleList-2VBrVI {
+ .peopleList__2379e {
  	background-color: var(--background-secondary);
  	color: #000;
  	margin: 0;
@@ -858,7 +858,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #848484;
  }
 
- .itemCard-3Etziu:first-of-type {
+ .itemCard__1f162:first-of-type {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -868,7 +868,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .itemCard-3Etziu {
+ .itemCard__1f162 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -878,7 +878,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .section-3G9aLW {
+ .section_efc22d {
  	background-color: var(--background-secondary);
  	color: #000;
  	margin: 0;
@@ -886,7 +886,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-top: 1px solid #848484;
  }
 
- .actions-YHvpIT, .peopleColumn-1wMU14, .actions-YHvpIT:hover, .peopleColumn-1wMU14:hover {
+ .actions_c08157, .peopleColumn__51df3, .actions_c08157:hover, .peopleColumn__51df3:hover {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -896,11 +896,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .peopleListItem-u6dGxF:hover .username-Qpc78p, .peopleListItem-u6dGxF:hover .text-MPIeXO {
+ .peopleListItem_d14722:hover .username__81ee6, .peopleListItem_d14722:hover .text__1dddb {
  	color: #FFFFFF !important;
  }
 
- .messageContainer-3VTXBC, .messages-23can0, .messageGroupWrapper-1jf_7C {
+ .messageContainer_aa7d14, .messages_f7999e, .messageGroupWrapper_f8c6e9 {
  	border-bottom: 1px solid #fff;
  	border-right: 1px solid #fff;
  	border-top: 1px solid #404040;
@@ -908,7 +908,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Footers */
- .footer-5ji8u1 {
+ .footer_a3029c {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -920,14 +920,14 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* Chat */
- .scrollerInner-2PPAp2 {
+ .scrollerInner__059a5 {
  	color: #000;
  	margin: 0;
  	border-bottom: 1px solid #fff;
  	border-top: 1px solid #848484;
  }
 
- .attachment-1PZZB2, .markup-eYLPri code, .grid-1aWVsE {
+ .attachment_f3cf2c, .markup_a7e664 code, .grid_c7c4e6 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -938,16 +938,16 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
 
- .selected-1-Z6gm .layout-1qmrhw {
+ .selected__9800b .layout_bb8e67 {
  	color: #FFFFFF
  }
 
- .activityText-1rR-8O:hover, .icon-Lupfh-:hover {
+ .activityText__47ec1:hover, .icon_d942d4:hover {
  	color: #FFFFFF;
  }
 
  /* Menus */
- .menu-2TXYjN, .channel-1Shao0 {
+ .menu_dc52c6, .channel_c21703 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -957,7 +957,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .labelContainer-35-WEd {
+ .labelContainer_bc2861 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -968,7 +968,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Buttons */
- .button-1zW0-r, .button-3bklZh, .lookFilled-1H2Jvj.colorBrand-2M3O3N, .lookFilled-1H2Jvj.colorPrimary-2-Lusz, .tabBar-ra-EuL .item-3mHhwr {
+ .button__3ecb4, .button_d553e5, .lookFilled__19298.colorBrand_b2253e, .lookFilled__19298.colorPrimary__6ed40, .tabBar__73938 .item_e4ca95 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -978,7 +978,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(1), #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(2), #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.sidebar-1tnWFu>section>div.container-YkUktl>div.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignStretch-Uwowzr.noWrap-hBpHBz>button:nth-child(3) {
+ #app-mount>div.appAsidePanelWrapper__714a6>div.notAppAsidePanel__9d124>div.app_b1f720>div>div.layers_a40797.layers__12c9f>div>div>div>div>div.sidebar_ded4b5>section>div.container_ca50b9>div.flex_f5fbb7.flex__909d4.horizontal__992f6.horizontal__65889.flex__909d4.directionRow__2bb0b.justifyStart__42744.alignStretch_e239ef.noWrap__5c413>button:nth-child(1), #app-mount>div.appAsidePanelWrapper__714a6>div.notAppAsidePanel__9d124>div.app_b1f720>div>div.layers_a40797.layers__12c9f>div>div>div>div>div.sidebar_ded4b5>section>div.container_ca50b9>div.flex_f5fbb7.flex__909d4.horizontal__992f6.horizontal__65889.flex__909d4.directionRow__2bb0b.justifyStart__42744.alignStretch_e239ef.noWrap__5c413>button:nth-child(2), #app-mount>div.appAsidePanelWrapper__714a6>div.notAppAsidePanel__9d124>div.app_b1f720>div>div.layers_a40797.layers__12c9f>div>div>div>div>div.sidebar_ded4b5>section>div.container_ca50b9>div.flex_f5fbb7.flex__909d4.horizontal__992f6.horizontal__65889.flex__909d4.directionRow__2bb0b.justifyStart__42744.alignStretch_e239ef.noWrap__5c413>button:nth-child(3) {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -988,7 +988,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .size32-1NLMUP {
+ .size32_eadcb9 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1011,7 +1011,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Headers */
- .header-1w9Q93, .header-1zd7se {
+ .header_f5cc88, .header-1zd7se {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1029,7 +1029,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .sidebar-1tnWFu {
+ .sidebar_ded4b5 {
  	border-bottom: 1px solid #848484;
  	border-right: 1px solid #848484;
  	border-top: 1px solid #fff;
@@ -1041,7 +1041,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	display: none;
  }
 
- .theme-light .uploadModal-2ie9O_ {
+ .theme-light .uploadModal_eae2a0 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1051,7 +1051,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .uploadModal-2ie9O_ .footer-VCsJQY.hasSpoilers-33hwf_ {
+ .uploadModal_eae2a0 .footer_ceda43.hasSpoilers__49ee6 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1063,7 +1063,7 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* Settings */
- .side-1lrxIh .item-2GWPIy {
+ .side_b4b3f6 .item__48dda {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1073,11 +1073,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .contentRegionScroller-2_GT_N {
+ .contentRegionScroller__86c79 {
  	background-color: #848484;
  }
 
- .theme-light .closeButton-PCZcma {
+ .theme-light .closeButton__34341 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1087,7 +1087,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .background-3d_SjE {
+ .background_b61fcc {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1097,7 +1097,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .fieldList-in8WkP {
+ .fieldList_aab0de {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1107,7 +1107,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #848484;
  }
 
- .accountProfileCard-lbN7n- {
+ .accountProfileCard__22589 {
  	color: #000 !important;
  	background: #C0C0C0 !important;
  	background-color: #C0C0C0 !important;
@@ -1117,11 +1117,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Send Button */
- .separator-3ng7S5 {
+ .separator__8424b {
  	margin-left: 0px;
  }
 
- #app-mount>div.appAsidePanelWrapper-ev4hlp>div.notAppAsidePanel-3yzkgB>div.app-3xd6d0>div>div.layers-OrUESM.layers-1YQhyW>div>div>div>div>div.chat-2ZfjoI>div.content-1jQy2l>main>form>div>div>div>div.buttons-uaqb-5>div.separator-3ng7S5>div>button {
+ #app-mount>div.appAsidePanelWrapper__714a6>div.notAppAsidePanel__9d124>div.app_b1f720>div>div.layers_a40797.layers__12c9f>div>div>div>div>div.chat__52833>div.content__1a4fe>main>form>div>div>div>div.buttons_ce5b56>div.separator__8424b>div>button {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1134,8 +1134,8 @@ its up to you to fix them or wait for me to eventually fox them*/
 
  /* TROPICAL - CHECKBOXES - SLATE THEME - https://github.com/DiscordStyles/Slate/blob/master/LICENSE.md */
  /* epic */
- #app-mount .container-1QtPKm, .input-125oad,
- #app-mount .container-1QtPKm, .input-125oad,
+ #app-mount .container__871ba, .input_be50d1,
+ #app-mount .container__871ba, .input_be50d1,
  #app-mount .checkboxWrapper-2fDzaA .input-2XRLou,
  #app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
  	margin: 0;
@@ -1149,7 +1149,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	box-shadow: inset -1px -1px #fff, inset 1px 1px grey, inset -2px -2px #dfdfdf, inset 2px 2px #0a0a0a;
  }
 
- #app-mount .container-1QtPKm,
+ #app-mount .container__871ba,
  #app-mount .checkboxWrapper-2fDzaA{
  	width: auto;
  	border-radius: 0;
@@ -1165,8 +1165,8 @@ its up to you to fix them or wait for me to eventually fox them*/
  	accent-color: var(--accent);
  }
 
- #app-mount .container-1QtPKm .slider-HJFN2i,
- #app-mount .checkboxWrapper-2fDzaA .slider-HJFN2i {
+ #app-mount .container__871ba .slider__41d94,
+ #app-mount .checkboxWrapper-2fDzaA .slider__41d94 {
  	display: none;
  }
 
@@ -1176,7 +1176,7 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* Emoji and Gif Menu */
- .inspector-2A2Chb, .inspector-DFKXwB, .drawerSizingWrapper-1txdWG {
+ .inspector__17331, .inspector__993e1, .drawerSizingWrapper__30274 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1186,7 +1186,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .unicodeShortcut-3N8oDe, .stickerCategoryGeneric-29JiZ2 {
+ .unicodeShortcut__1dd6b, .stickerCategoryGeneric__431fb {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1196,7 +1196,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .inner-1NoIT5, .content-A8TzKf {
+ .inner__178b2, .content__30de8 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1206,11 +1206,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .medium-13kyaW .tag-15zcD_ {
+ .medium__2d9f3 .tag__69d9d {
  	height: 30px !important;
  }
 
- .theme-light .header-JHwfVI, .theme-light .header-2TLOnc {
+ .theme-light .header-JHwfVI, .theme-light .header_f7f1f3 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1220,7 +1220,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .categoryItemDefaultCategorySelected-2YeRUu, .standardStickerShortcut-ObSns3, .categoryItemDefaultCategorySelected-2YeRUu:hover {
+ .categoryItemDefaultCategorySelected__8245a, .standardStickerShortcut__5254d, .categoryItemDefaultCategorySelected__8245a:hover {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1230,7 +1230,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-left: 1px solid #fff;
  }
 
- .list-obNEuP, .inner-2pOSmK, .theme-light .header-JHwfVI {
+ .list-obNEuP, .inner__999f6, .theme-light .header-JHwfVI {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1241,7 +1241,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Voice Chat */
- .container-1zzFcN {
+ .container_d667ff {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1271,7 +1271,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	font-size: 16px;
  }
 
- .powercord-product .divider-3LgWDL {
+ .powercord-product .divider__09722 {
  	display: none;
  }
 
@@ -1288,14 +1288,14 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* New Messages */
- .newMessagesBar-1hF-9G {
+ .newMessagesBar__8b6d7 {
  	display: inline;
  	float: left;
  	background-color: #7289da00;
  	box-shadow: none;
  }
 
- .barButtonAlt-TQoCdZ, .barButtonMain-2GIx4o {
+ .barButtonAlt__4b48f, .barButtonMain__0f5c6 {
  	color: #000 !important;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1307,7 +1307,7 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* Typing and slow mode */
- .typing-2J1mQU {
+ .typing__6fd1d {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1322,13 +1322,13 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Hide scroll bar */
- .guilds-2JjMmN *::-webkit-scrollbar, .categoryListWithSearch-2jrzH6 *::-webkit-scrollbar, .emojiPickerHasTabWrapper-LoluYe .categoryList-2qRrlj *::-webkit-scrollbar, .sidebar-1tnWFu *::-webkit-scrollbar {
+ .guilds__2b93a *::-webkit-scrollbar, .categoryListWithSearch-2jrzH6 *::-webkit-scrollbar, .emojiPickerHasTabWrapper__80686 .categoryList_f8c48f *::-webkit-scrollbar, .sidebar_ded4b5 *::-webkit-scrollbar {
  	display: none;
  }
 
 
 
- .panels-3wFtMD {
+ .panels__58331 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1377,7 +1377,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  	border-bottom: 0px !important;
  }
 
- .buttonContainer-2lnNiN {
+ .buttonContainer__8b164 {
  	color: #000 !important;
  	background: #C0C0C0 !important;
  	background-color: #C0C0C0 !important;
@@ -1387,7 +1387,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Chat */
- .fontSize16Padding-XoMpjI {
+ .fontSize16Padding__48818 {
  	padding-bottom: 11px;
  	padding-top: 11px;
  	margin-left: 3px;
@@ -1396,7 +1396,7 @@ its up to you to fix them or wait for me to eventually fox them*/
 
 
  /* Pop Outs */
- .focusLock-bHVOlV, .root-1CAIjD, .bd-addon-error-header, .bd-tab-item.selected, .theme-light .footerSeparator-3U8YsT {
+ .focusLock__10aa5, .root_a28985, .bd-addon-error-header, .bd-tab-item.selected, .theme-light .footerSeparator__57d95 {
  	color: #000;
  	background: #C0C0C0;
  	background-color: #C0C0C0;
@@ -1407,11 +1407,11 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* People Friends Page */
- .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
+ .side_b4b3f6 .themed_b957e8.selected__5711d.item__48dda, .topPill__0cdf1 .themed_b957e8.selected__5711d.item__48dda {
  	color: #FFFFFF;
  }
 
- .platform-osx .typeMacOS-3V4xXE, .platform-osx #channelTabs-container {
+ .platform-osx .typeMacOS__496b0, .platform-osx #channelTabs-container {
  	background-color: #C0C0C0;
  }
 
@@ -1425,7 +1425,7 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  /* Guilds */
- .childWrapper-1j_1ub, .wrapper-3kah-n {
+ .childWrapper__01b9c, .wrapper_d281dd {
  	background-color: #C0C0C0;
  	border-bottom: 1px solid #848484;
  	border-right: 1px solid #848484;
@@ -1437,76 +1437,76 @@ its up to you to fix them or wait for me to eventually fox them*/
 
  /* Ripped Directly from Saltssaumure's BorderRadient */
 
- .assetWrapperMasked-1iw9lV,
- .assetsLargeMaskStreamPreview--ugZjW,
- .assetsLargeMaskUserPopout-3N96A8,
- .inspectedIndicator-27zwNZ,
- .loadingIndicator-3fKdTZ,
+ .assetWrapperMasked__20115,
+ .assetsLargeMaskStreamPreview__741af,
+ .assetsLargeMaskUserPopout__82136,
+ .inspectedIndicator_f00108,
+ .loadingIndicator__6b1b4,
  .mask-2Me5HY rect,
  foreignObject[mask*="url(#"] {
  	mask: none;
  	-webkit-mask: none;
  }
 
- .theme-dark .imageLoading-2uloYN,
- .theme-light .imageLoading-2uloYN {
+ .theme-dark .imageLoading__37d01,
+ .theme-light .imageLoading__37d01 {
  	background-image: none;
  }
 
- .accountAddInner-2y9WLL,
+ .accountAddInner_d34c25,
  .accountList-Wii_T5,
- .accountProfileCard-lbN7n-,
- .action-2YPPom,
- .actionButton-3-B2x-,
- .actionContainer-2krsiT,
- .actionContainer-EzNGrb,
- .actions-10aT1z,
- .activitySectionAssets-1wpe42 .largeImage-2EIggm,
- .addFriendInputWrapper-kkoSV9,
- .addGamePopout-2SKNIV,
- .addMemberRow-KVhQFf,
- .addReactButton-3bSQb6,
+ .accountProfileCard__22589,
+ .action_d01fae,
+ .actionButton__23182,
+ .actionContainer__51bd9,
+ .actionContainer_d21d10,
+ .actions_cba988,
+ .activitySectionAssets_ea2444 .largeImage_f4707b,
+ .addFriendInputWrapper__4bf8e,
+ .addGamePopout_e4ca8f,
+ .addMemberRow_d14116,
+ .addReactButton__59750,
  .addTags-26suzl,
- .after_inlineCode-2_JXPm,
- .allow-1h61-Z,
- .allow-q9kwjz,
- .altTag-3DeQpq,
- .appAvatar-2htirv,
- .artContainer-1yaXct,
- .attachedBars-2BCP3l,
- .attachment-16cAbS,
- .attachment-1PZZB2,
- .audioControls-3fmemK,
- .auditLog-1NVAY0,
+ .after_inlineCode__2197d,
+ .allow_bbc621,
+ .allow__6f2d0,
+ .altTag__3fced,
+ .appAvatar_dc107b,
+ .artContainer__56b19,
+ .attachedBars_da3c74,
+ .attachment__7a2d0,
+ .attachment_f3cf2c,
+ .audioControls__9fbe9,
+ .auditLog__6c805,
  .auto-2K3UW5::-webkit-scrollbar-thumb,
  .auto-2K3UW5::-webkit-scrollbar-track,
- .autocomplete-3jLKbj,
- .autocompleteQuerySymbol-1iAOG7,
- .availabilityIndicator-3-1ZYA,
- .avatar-1-pIh6,
- .avatar-2e8lTP,
- .avatar-3FKimL,
- .avatar-3TrM7c,
- .avatar-l9Txm5,
- .avatar-rC0Atp,
- .avatarHoverTarget-1zzfRL,
+ .autocomplete__0c75a,
+ .autocompleteQuerySymbol__3068e,
+ .availabilityIndicator__66240,
+ .avatar_b8e04b,
+ .avatar__08316,
+ .avatar_a56eee,
+ .avatar__777a6,
+ .avatar_eb6eba,
+ .avatar__50f54,
+ .avatarHoverTarget__3a360,
  .avatarSpeaking-33RRJU,
- .avatarWrapper-eenWra,
- .background-3d_SjE,
- .backgroundOptionInner-SSz19O,
- .backgroundOptionRing-1vvQ0C,
- .badge-370Op6,
+ .avatarWrapper_f77579,
+ .background_b61fcc,
+ .backgroundOptionInner__1477f,
+ .backgroundOptionRing__1f209,
+ .badge__1a553,
  .badge-39TqBS,
  .banner-1rJmju,
  .banner-2boKnS,
- .banner-3D8GgT,
+ .banner_b7f1fb,
  .banner-ppi-o1,
  .bar-1Bhnl9,
- .bar-2eAyLE,
- .bar-H6j3_Q,
- .base-2v-uc0,
- .baseShapeRound-3epLEv,
- .baseShapeRoundLeft-heLrHp,
+ .bar_edc096,
+ .bar_ef682d,
+ .base__76a71,
+ .baseShapeRound__95d0f,
+ .baseShapeRoundLeft__99acd,
  .bd-addon-error-icon,
  .bd-addon-error,
  .bd-addon-list .bd-addon-card,
@@ -1527,125 +1527,125 @@ its up to you to fix them or wait for me to eventually fox them*/
  .bd-switch-body,
  .bd-tab-item,
  .bd-toast,
- .before_inlineCode-1zngJj,
+ .before_inlineCode__37e14,
  .bigPerkCard-1uwmWV,
- .blob-1uHjdp,
- .blockquoteContainer-3VtvI1 .blockquoteDivider-363utW,
+ .blob__8d5bd,
+ .blockquoteContainer_f24d1f .blockquoteDivider__96157,
  .bodyMedia-3ij3KY,
- .border-2BJQjd,
- .border-2Vy6FN,
+ .border_e782de,
+ .border_d9a17b,
  .box-BHImcZ,
- .bubble-3XikHF,
- .button-1_oXub,
- .button-12Fmur,
- .button-1iHNQ2,
- .button-1yVL_7,
- .button-3Vyz67,
- .button-cfOvv-,
- .button-f2h6uQ,
- .buttonInner-3aRbcx,
- .calendarPicker-sDhzdi .react-datepicker__navigation.react-datepicker__navigation--next, .calendarPicker-sDhzdi .react-datepicker__navigation.react-datepicker__navigation--previous,
- .calendarPicker-sDhzdi .react-datepicker__week:first-of-type>.react-datepicker__day:first-of-type,
- .calendarPicker-sDhzdi .react-datepicker__week:first-of-type>.react-datepicker__day:last-of-type,
- .calendarPicker-sDhzdi .react-datepicker__week:last-of-type>.react-datepicker__day:first-of-type,
- .calendarPicker-sDhzdi .react-datepicker__week:last-of-type>.react-datepicker__day:last-of-type,
+ .bubble_f48089,
+ .button_ddf91e,
+ .button__4f306,
+ .button__57d93,
+ .button__71a0f,
+ .button__13ec4,
+ .button_f8244b,
+ .button_afdfd9,
+ .buttonInner__2771e,
+ .calendarPicker__5c474 .react-datepicker__navigation.react-datepicker__navigation--next, .calendarPicker__5c474 .react-datepicker__navigation.react-datepicker__navigation--previous,
+ .calendarPicker__5c474 .react-datepicker__week:first-of-type>.react-datepicker__day:first-of-type,
+ .calendarPicker__5c474 .react-datepicker__week:first-of-type>.react-datepicker__day:last-of-type,
+ .calendarPicker__5c474 .react-datepicker__week:last-of-type>.react-datepicker__day:first-of-type,
+ .calendarPicker__5c474 .react-datepicker__week:last-of-type>.react-datepicker__day:last-of-type,
  .cameraWrapper-3a7Ngv,
  .card-16VQ8C,
- .card-2ART2V:before,
- .card-2TuZPZ,
- .card-2xymMp,
- .card-3ie2dy,
- .card-3N2v9t,
- .card-3x20HF,
+ .card_dc88cd:before,
+ .card__86773,
+ .card__834d4,
+ .card__48184,
+ .card__73022,
+ .card_d4f6c7,
  .card-8UsK4b,
  .card-m7VgZ8,
- .card-PQEqCK,
- .card-sX105p,
- .card-WWLYDO,
- .cardIcon-1d-mcG:before,
- .cardWrapper-1bSePP,
- .category-2OvQ93,
- .category-qFAw-K,
- .categoryFade-3RRG67, .categoryFadeBlurple-1l49_Q,
- .categoryItemDefaultCategory-3haEDq,
- .categoryList-2qRrlj,
+ .card__3662a,
+ .card__2ebbc,
+ .card__81c50,
+ .cardIcon__3476e:before,
+ .cardWrapper_bc8d2a,
+ .category_ba5745,
+ .category__2d800,
+ .categoryFade_f9c843, .categoryFadeBlurple_e73c11,
+ .categoryItemDefaultCategory__67fe7,
+ .categoryList_f8c48f,
  .categoryPill-1zjNrr,
  .channelContainer-3YAhb_,
- .channelIcon-2N5-5h,
- .channelIcon-QyaRxN,
+ .channelIcon__2b0ed,
+ .channelIcon__1565e,
  .channelsWrapper-51IUFR,
- .channelTextArea-1VQBuV,
- .chat-2ZfjoI.threadSidebarOpen-1LSXvU,
+ .channelTextArea__56a36,
+ .chat__52833.threadSidebarOpen_fa231d,
  .checkbox-1ycfTw .checkboxInner-1aRh1d span,
  .checkboxWrapper-2fDzaA.row-31nALW,
  .checklistContainer-12xGp5,
  .checklistHeader-3liG7E,
- .childButton-3o_dlg,
- .clickable-WBCFI5,
- .closeButton-PCZcma,
+ .childButton__832dc,
+ .clickable_e2569e,
+ .closeButton__34341,
  .closeIcon-2jT3e_,
- .colorPickerSwatch-RTUGRR,
- .colorPickerSwatch-RTUGRR.custom-1Up2lr,
- .colorPickerSwatch-RTUGRR.default-3ISV7m,
- .communityInfoPill-2Mll66,
- .connectContainer-1hylYM,
- .connection-YOVI9j,
- .connectionHeader-Ixbb1s,
- .container-13pE3E,
+ .colorPickerSwatch__87597,
+ .colorPickerSwatch__87597.custom__383ac,
+ .colorPickerSwatch__87597.default__8218c,
+ .communityInfoPill_d3f445,
+ .connectContainer__8050b,
+ .connection_fff5f6,
+ .connectionHeader__3c82d,
+ .container__0d7bc,
  .container-16urgA,
- .container-18GwIk,
+ .container__8261a,
  .container-1BRLje,
- .container-1ILvLB,
- .container-1IyjjY,
- .container-1SX9VC,
- .container-1wv6C6,
+ .container__0810b,
+ .container__515b3,
+ .container_e4c233,
+ .container__8877d,
  .container-2_J666,
- .container-20TyK0,
+ .container__467eb,
  .container-2d0jMv,
- .container-2dXT_2,
- .container-2ebMPP,
- .container-2Hi7Km,
- .container-2McqkF,
- .container-2NdZr9,
+ .container_d4b118,
+ .container__20de0,
+ .container__92dc8,
+ .container_d6dad3,
+ .container__7b33c,
  .container-2nx-BQ,
  .container-2nXUah,
  .container-2O1UgZ,
- .container-2oNtJn,
- .container-2rzKKA,
+ .container__7712a,
+ .container__6604b,
  .container-30qY7E,
  .container-32HW5s,
  .container-3arpDl,
- .container-3EtAkD,
- .container-3HMTms,
- .container-3i3IzO,
- .container-3jbRo5,
+ .container_d5f6d0,
+ .container__16581,
+ .container__767d1,
+ .container_de00a3,
  .container-3kfp0r,
  .container-3PVapX p>img,
  .container-3ssFyj,
- .container-3tKtM_,
- .container-3XgAHv,
+ .container_a308ae,
+ .container_def45c,
  .container-3zZkKh,
  .container-5N5x2A,
- .container-8Futzw,
- .container-lJuBHq,
+ .container__56cd1,
+ .container__8fd9f,
  .container-QlmnKJ,
- .container-SidGiM,
+ .container_dabadb,
  .container-x8Y1ix,
- .container-xwOzwi,
- .containerBackground-Ang24O,
- .content-1gYQeQ,
- .content-1Tgc42,
+ .container_acafc1,
+ .containerBackground__1e084,
+ .wrapper__7bcde,
+ .content_b60865,
  .content-2hZxGK,
- .content-3spvdd,
- .content-FDHp32 ul li:before,
+ .content_d67847,
+ .content_dc3a33 ul li:before,
  .content-pHpkq8,
  .contentCircle-15IFyT,
- .contentWrapper-3vHNP2,
- .contextMenuNub-NuTZ_U,
- .copyInput-3AbKWB,
+ .contentWrapper__321ed,
+ .contextMenuNub__7c02f,
+ .copyInput_c1c679,
  .countContainer-3DOo5v,
- .cozy-VmLDNB.hasThread-3h-KJV:after,
- .createSticker-y-_Ug2,
+ .cozy_f5c119.hasThread__58ee2:after,
+ .createSticker__22fad,
  .css-1313o0h-control,
  .css-19vtg9u-control,
  .css-3vaxre-menu,
@@ -1654,403 +1654,403 @@ its up to you to fix them or wait for me to eventually fox them*/
  .css-kfxh0s-control,
  .css-xpql1x-control,
  .ctaBar-Nhk8yY,
- .datePicker-3iA7_k .datePickerHint-Ir4715 .hintValue-V9hd8l,
- .defaultIndicator-1AxErs,
- .deny-1GO6vI,
- .deny-2VqAyZ,
- .descriptionBox-SKGNgB,
+ .datePicker__94673 .datePickerHint__7cc9b .hintValue_c2ce1f,
+ .defaultIndicator__2a4ea,
+ .deny__71546,
+ .deny_c46df5,
+ .descriptionBox_cca0c3,
  .descriptionContainer-2ylKGk,
- .developerPortalCtaWrapper-2PniQs,
+ .developerPortalCtaWrapper__21172,
  .discordIcon-2-SnKe,
- .diversitySelectorOptions-3DhNYs,
- .dmIcon-1ZeAqq,
- .dot-10cPg0,
+ .diversitySelectorOptions__846c5,
+ .dmIcon__160f0,
+ .dot__05dbb,
  .dot-1F0TGd,
- .dot-e8DTw_,
- .dotOnline-j08lOY,
+ .dot__99c90,
+ .dotOnline__72689,
  .dotSeparator-1V0QPn,
- .editCard-K9Q9mb,
+ .editCard_dfa091,
  .editingContainer-1_nnqZ,
- .embed-hKpSrO,
- .embedAuthorIcon-3pnkS4,
- .embedImage-2Ynqkh img,
- .embedImage-2Ynqkh video,
- .embedMedia-1mdWSP,
- .embedThumbnail-2nTasl img,
- .embedThumbnail-2nTasl video,
- .embedVideo-2ixt5A img,
- .embedVideo-2ixt5A video,
- .emojiItem-277VFM,
- .emojiPicker-6YCk8a,
- .emptyChannelIcon-1YdEz2,
- .emptyStateIcon-2xfcFG,
+ .embed_d3cbe3,
+ .embedAuthorIcon__6b055,
+ .embedImage_e638a7 img,
+ .embedImage_e638a7 video,
+ .embedMedia_b473d2,
+ .embedThumbnail__468e1 img,
+ .embedThumbnail__468e1 video,
+ .embedVideo__0c65b img,
+ .embedVideo__0c65b video,
+ .emojiItem_b15dee,
+ .emojiPicker_b65ce9,
+ .emptyChannelIcon__1a1ba,
+ .emptyStateIcon__9ee16,
  .enableContainer-1J91Aq,
  .enableContainer-2MEsKV,
- .enableContainer-H2cRts,
+ .enableContainer__0945b,
  .error-3AuLwi,
  .exampleContainer-2O-nVK,
- .exampleContainer-hz7EUM,
- .exampleModal-2fUA5X,
+ .exampleContainer__83e1c,
+ .exampleModal__4d7df,
  .exampleRule-3gJ39X,
- .executedCommandAvatar-3oOnb1,
- .expandedFolderBackground-1kSAf6,
- .fakeActivityIcon-KeXVoI,
+ .executedCommandAvatar__939bc,
+ .expandedFolderBackground__1bec6,
+ .fakeActivityIcon__222c6,
  .fakeButton-3RWbMY,
- .fakeEdges-18N907:after,
- .fakeEdges-18N907:before,
+ .fakeEdges__17ee5:after,
+ .fakeEdges__17ee5:before,
  .feature-2IUcBI,
- .featureBorder-2Jl8g4,
- .featureCard-3XHbjy,
- .featureIcon-2sTnDK,
- .firstChannel-3vAGDY,
- .focusRing-2_fyOA,
- .folderIconWrapper-1oRIZr,
+ .featureBorder_a44f20,
+ .featureCard__0a441,
+ .featureIcon__48a2c,
+ .firstChannel__94f31,
+ .focusRing_e5d39f,
+ .folderIconWrapper__72239,
  .footer-31IekZ,
- .footer-GXWBBp,
+ .footer__06f4b,
  .form-25Aujy .submitButton-3B-dZd,
- .gameIcon-1mDo1J,
- .gemIndicatorContainer-PqApbX,
+ .gameIcon__90c32,
+ .gemIndicatorContainer_b03ca0,
  .getStartedWrapper-2mNX-j,
- .gif-2kTiNB,
+ .gif__2aa16,
  .gifIconContainer-3os21a,
  .grabber-2GQyvM,
- .group-1-kPpw,
- .group-LWHoGI,
+ .group__2716e,
+ .group__6ae8b,
  .guidelinesButton-3Vrz0u,
- .guildContainer-1O-rjS,
- .guildIcon-uYC13g,
- .guildIconExpired-2BFmZC,
+ .guildContainer__01a82,
+ .guildIcon__31e46,
+ .guildIconExpired__1d51f,
  .guildSidebar-pjuGkm,
- .header-11eigE,
+ .header__55964,
  .header-1Uy0p6,
  .header-1zd7se,
- .header-224ffR,
- .headerContent-3_EO-5 .searchBox-3wTyE4,
- .headerIcon-2ra-HY,
- .headerIcon-4CEo5y,
- .headerImage-1c8Lrb,
+ .header__7b78f,
+ .headerContent__74c51 .searchBox_bf114a,
+ .headerIcon__5761b,
+ .headerIcon__8e637,
+ .headerImage_d4505b,
  .headerImage-2D5D-v,
- .headerImage-Xy5R7m,
- .helpIcon-24pk1Z,
+ .headerImage__0cf36,
+ .helpIcon_a58947,
  .hero-1aNo0v,
  .hero-2rQ_qr,
  .hljs,
  .html5-video-player:not(.ytp-touch-mode) ::-webkit-scrollbar-thumb,
- .hue-2nWTuO>div>div,
+ .hue__687e2>div>div,
  .icon-1_mnkD,
- .icon-2DGsye,
- .icon-2O29O0,
- .icon-39rdLt,
- .icon-iw1n8C,
- .icon-mJhEWn,
- .icon-S3vUHH,
- .iconActiveLarge-ac-EDu,
- .iconActiveLarger-2EZc1b,
- .iconActiveMedium-27_R5B,
- .iconActiveMini-1h3oNi,
- .iconContainer-2k2ykS,
- .iconContainer-2R-3M1,
+ .icon__4c736,
+ .icon__28d6c,
+ .icon_c1b424,
+ .icon_e355a1,
+ .icon__588c6,
+ .icon_f1e244,
+ .iconActiveLarge__8985a,
+ .iconActiveLarger__0698f,
+ .iconActiveMedium_d5475f,
+ .iconActiveMini__0163a,
+ .iconContainer__21954,
+ .iconContainer__6fc72,
  .iconContainer-36kI2p,
- .iconContainer-6xlTpK,
- .iconInactive-26M06U,
- .iconWrapper-1sOtkE,
- .iconWrapper-3FqQ75,
- .iconWrapper-3plkqh,
- .iconWrapper-il75HH,
- .iconWrapper-Tkg0P1,
+ .iconContainer__004ce,
+ .iconInactive__90d40,
+ .iconWrapper__8fbb1,
+ .iconWrapper__3e4a9,
+ .iconWrapper__85630,
+ .iconWrapper__1b651,
+ .iconWrapper_ced58f,
  .image-1091CL,
  .image-ZPv20Y,
- .imageUploaderIcon-2OHmFu,
- .imageUploaderInner-IIRaFr,
- .imageWrapper-oMkQl4,
- .indicator-1zNk1M,
+ .imageUploaderIcon__0c13b,
+ .imageUploaderInner_da8332,
+ .imageWrapper_fd6587,
+ .indicator__2b793,
  .inlineUpsell-3zPTgw,
- .inner-1lPVFp,
+ .inner__51a43,
  .input-2g-os5,
  .input-2XRLou,
- .input-3r5zZY,
- .inset-SbsSFp,
- .integration-1qC-fv,
- .intentsContainer-FHJBSg,
- .invite-3uuHYQ,
+ .input__848cd,
+ .inset__0bfb3,
+ .integration_d2f026,
+ .intentsContainer__9bd68,
+ .invite__2a93b,
  .inviteBannerUpsell-1t_LYM,
  .inviteRow-3vmB7i,
- .inviteSplash-2nkLRX,
+ .inviteSplash_f4eb93,
  .item-1BCeuB,
  .item-1OdjEX,
  .item-2idW98,
- .item-2LIpTv,
+ .item_f9d377,
  .item-2OyinQ:first-child,
  .item-2OyinQ:last-child,
- .jumpButton-1V_1FA,
- .jumpButton-1ZwI_j,
- .jumpToPresentBar-1cEnH0,
+ .jumpButton_da1ebb,
+ .jumpButton__0329d,
+ .jumpToPresentBar__0ff7f,
  .keybindShortcut-3zF1P9 span,
- .languageSelector-2e1IuO,
- .lastChannel-21yyBC,
- .layout-1LjVue,
- .layout-1qmrhw,
- .list-1bztb-,
- .list-3ykg7W,
- .listRow-2nO1T6,
- .liveIndicator-TJKS7N,
- .liveShapeRound-2Tgi2d,
- .liveShapeRoundRight-1ifBrO,
+ .languageSelector_a1c2f3,
+ .lastChannel__129f1,
+ .layout__59abc,
+ .layout_bb8e67,
+ .list_b1e6a9,
+ .list_a19d86,
+ .listRow__60937,
+ .liveIndicator_e64478,
+ .liveShapeRound__811c0,
+ .liveShapeRoundRight__35bb2,
  .mainCard-3KBsBI,
- .markup-eYLPri code.inline,
- .markup-eYLPri pre,
- .mediaBarGrabber-FvJKJg,
- .mediaBarInteractionVolume-zGrOSh,
- .memberDot-2pNW83,
- .memberListItem-3V-x8Q,
+ .markup_a7e664 code.inline,
+ .markup_a7e664 pre,
+ .mediaBarGrabber_c64ff9,
+ .mediaBarInteractionVolume_f4c833,
+ .memberDot__8f6df,
+ .memberListItem_f1d144,
  .membershipDialog-2wAdpQ,
  .mention,
- .menu-1QACrS,
- .message-G6O-Wv,
- .messageContainer-3VTXBC,
- .messageGroupWrapper-1jf_7C,
+ .menu_dc52c6,
+ .message__04d9f,
+ .messageContainer_aa7d14,
+ .messageGroupWrapper_f8c6e9,
  .messageInputContainer-2rGDH8,
- .messageRequestItem-1_NNAR:hover,
- .messageRequestItem-1_NNAR.active-1iRyqF,
- .messages-23can0,
- .messagesErrorBar-1IQ1rH,
- .messagesPopoutWrap-3zryHW,
- .metadataContainer-35U-On,
+ .messageRequestItem__3b951:hover,
+ .messageRequestItem__3b951.active_a36bbb,
+ .messages_f7999e,
+ .messagesErrorBar__06c0a,
+ .messagesPopoutWrap_b3b384,
+ .metadataContainer__7b316,
  .mini-2qY9iv .grabber-2GQyvM,
- .moreUsers-3PdGZN,
+ .moreUsers__1d9e9,
  .mostPopularPill-28w8lV,
- .multipleIconWrapper-2YHnS6,
- .newMessagesBar-1hF-9G,
- .noiseCancellationPopout-2-e5Xz,
- .notDetected-M3Ghh2,
+ .multipleIconWrapper__164fb,
+ .newMessagesBar__8b6d7,
+ .noiseCancellationPopout__06ec4,
+ .notDetected__2a0c9,
  .notice-1Qe0b_,
- .notice-2HEN-u,
+ .notice__5fd4c,
  .notice-5OG6bf,
- .nowPlaying-3UpuKc,
- .option-1QI4c9,
- .option-ayUoaq,
- .option-Tt7anD,
+ .nowPlaying__353c3,
+ .option_a0c054,
+ .option_b5597b,
+ .option__32fd1,
  .optionBox-1UOevl,
- .optionContainer-32r7Dj,
- .optionContainer-yOpaLq,
- .optionPill-2kmuZR,
- .outer-2JOHae,
- .outerWrapper-3UdjNj,
- .overflow-W0reYu,
+ .optionContainer_a683c2,
+ .optionContainer__5d0b1,
+ .optionPill_f86b98,
+ .outer_a41cf3,
+ .outerWrapper__08924,
+ .overflow__9227d,
  .overlayAvatar-1U_zp1,
  .overlayBackground-2Zjm9f,
  .overlayBackground-H1K9ZY,
- .overlayTitle-2efoIF,
- .partyMemberEmpty-GtlQ_s,
+ .overlayTitle_a9f7c6,
+ .partyMemberEmpty__94736,
  .pencilContainer-11Kuga,
- .pencilContainer-18TrEJ,
- .peopleListItem-u6dGxF:hover,
- .peopleListItem-u6dGxF.active-2UF8Zh,
+ .pencilContainer_d4ce8d,
+ .peopleListItem_d14722:hover,
+ .peopleListItem_d14722.active__6b8ff,
  .perk-19D_HN,
  .perks-2IIbWQ,
- .phoneField-3NAPDv .countryButton-1cNDvB,
- .phoneField-3NAPDv,
- .pictureInPictureVideo-2puO2Q,
- .pictureInPictureWindow-3ms5Zy,
+ .phoneField__65729 .countryButton__499be,
+ .phoneField__65729,
+ .pictureInPictureVideo_f1081d,
+ .pictureInPictureWindow_dc49a8,
  .pill-1HLSrc,
- .pill-3pRQlO,
- .placeholder-2jEh13,
- .placeholderCard-3eGmb3,
+ .pill_f055c3,
+ .placeholder__278ac,
+ .placeholderCard__622e2,
  .placeholderLine-86Fsd9,
  .placeholderMedia-34JHvE,
- .platform-win .sidebar-1tnWFu,
+ .platform-win .sidebar_ded4b5,
  .popout-1KHNAq,
  .popout-2vZMlk,
- .popout-TdhJ6Z,
- .popoutContainer-2wbmiM,
+ .popout__24e32,
+ .popoutContainer__7b9a3,
  .popoutList-10IFAa,
  .popoutRoleDot-2_Nt5g,
  .preview-x-26h-,
- .previewContainer-1GxmBJ,
- .previewContainer-1xQAsw,
- .previewContainer-29oeA6,
+ .previewContainer_c7e80d,
+ .previewContainer_d2b616,
+ .previewContainer_b0f5b4,
  .previewInner-Ry5hd0,
  .previewInner-Ry5hd0:before,
- .previewMessage-2g_aBv,
- .privateThreadFeaturePill-3pnWt5,
- .profileBadge-12r2Nm:before,
+ .previewMessage__1075c,
+ .privateThreadFeaturePill__5db2e,
+ .profileBadge__1d2d3:before,
  .profileBadges-1GBCVy,
  .profileBadges-31rDHI,
  .profileBannerPreview-3mLIdO,
  .profileCustomizationPreview-2-Y173,
  .profileThemeSectionPremiumBorder-pH_ioT,
  .progressBar-18rmp1,
- .px-MnE_OR.botTag-7aX5WZ,
+ .px__97c6b.botTag__4211a,
  .qualitySettingsContainer-2LjkfM,
  .questionMark-3V9mGJ,
- .quickSelectPopout-2F0PXw,
- .quickswitcher-pKcM9U,
+ .quickSelectPopout_c0cf80,
+ .quickswitcher_a3d29a,
  .radioBar-3w9XY-,
  .react-datepicker,
- .reaction-102jx9,
- .reaction-3vwAF2,
+ .reaction_fef95b,
+ .reaction_b90ab0,
  .reaction-BL6n45,
- .rem-3kT9wc.botTag-7aX5WZ,
- .rem-3kT9wc.botTag-7aX5WZ.botTagOP-3pUTXu,
- .repliedMessage-3Z6XBG:before,
- .replyAvatar-sHd2sU,
- .replyBadge-LMm_Ic,
- .result-pzZrwj,
- .result-pzZrwj:after,
- .result-u66Ywh,
+ .rem__931aa.botTag__4211a,
+ .rem__931aa.botTag__4211a.botTagOP_e48ddb,
+ .repliedMessage_e2bf4a:before,
+ .replyAvatar_cea07c,
+ .replyBadge__3d01e,
+ .result_e1fc74,
+ .result_e1fc74:after,
+ .result__25f11,
  .ring-370dIp,
- .role-23oyrw,
+ .role__88585,
  .role-2mCo-N,
- .role-2TIOKu,
+ .role__631a3,
  .roleCircle-1EgnFN,
  .roleCircle-1ER2zO,
  .roleCircle-3K9O3d,
- .roleColor-3cA0as,
+ .roleColor_dc66b5,
  .roleDot-2a4Pv7,
  .roleDot-2gCDg5,
- .roleIcon-3-WL_I:before,
- .roleRow-230vCm,
+ .roleIcon__59ca1:before,
+ .roleRow_c357d5,
  .roleRow-3LoHQ6,
  .rolesWrapper-1LLZrU,
- .root-3PVcjb,
- .root-cw9rWQ,
- .root-g14mjS,
+ .root__03160,
+ .root_b4f834,
+ .root_a28985,
  .round-1RSG-3,
  .roundButton-2_R5PN,
- .row-1qtctT,
+ .row__4daf2,
  .rowContainer-3t7486,
- .rowWrapper-N-4fji,
- .rsvpCount-iCkObl,
- .ruleIconContainer-dXW56-,
- .saturation-CLQHFD>div,
- .saturation-CLQHFD>div>div,
- .scrollableContainer-15eg7h,
- .scrollbarGhostHairline-2LpzZ9::-webkit-scrollbar-thumb,
- .scroller-3b1p7z,
- .search-2Mwzzq .DraftEditor-root .DraftEditor-editorContainer,
- .searchAnswer-23w-CH,
- .searchBar-3TnChZ .searchBarComponent-3N7dCG,
- .searchBar-jGtisZ,
- .searchBox-pyIJJj,
- .searchFilter-2UfsDk,
- .searchResult-O9NDji,
- .section-3G9aLW:first-child,
- .section-3G9aLW:last-child,
- .section-3G9aLW:only-child,
+ .rowWrapper__2d725,
+ .rsvpCount__4657d,
+ .ruleIconContainer_baf164,
+ .saturation__35997>div,
+ .saturation__35997>div>div,
+ .scrollableContainer__33e06,
+ .scrollbarGhostHairline_c9a45f::-webkit-scrollbar-thumb,
+ .scroller_abc422,
+ .search_ac353c .DraftEditor-root .DraftEditor-editorContainer,
+ .searchAnswer_b452e7,
+ .searchBar_e4ea2a .searchBarComponent__22760,
+ .searchBar_e0c60b,
+ .searchBox_a63854,
+ .searchFilter__118cb,
+ .searchResult_dcd237,
+ .section_efc22d:first-child,
+ .section_efc22d:last-child,
+ .section_efc22d:only-child,
  .select-1Ia3hD,
- .selectableItem-3-fmiM,
- .selected-11Gl-y,
- .sessionIcon-2fwSzb,
+ .selectableItem__166c5,
+ .selected_ee2dc5,
+ .sessionIcon__540be,
  .settingCard-xZSDjS,
  .settingsContainer-36qZZ9,
  .settingsFormItem-25zW3t,
  .side-2ur1Qk .item-3XjbnG,
  .sidebarCard-1Gn1ch,
- .size24-9rrwDS .moreUsers-_v6T-L,
+ .size24_f4a88d .moreUsers_cd5dfc,
  .small-1bZsRQ,
  .smallBox-1jyyME,
- .smallCarousel-20QIi8,
- .smallCarouselItem-32wSyS,
+ .smallCarousel_cb7c79,
+ .smallCarouselItem__4b167,
  .smallPerkCard-2sX_--,
  .sourceThumbnail-ERDcZE,
- .spamBanner-1auiob,
- .spine-2vt3pM,
- .spinner-2bMWLW,
- .splashContainer-2PC_Bm,
- .splashImage-1iRUgw,
+ .spamBanner_adb1b9,
+ .spine_d081ec,
+ .spinner__97e4c,
+ .splashContainer__5cb35,
+ .splashImage_df3cce,
  .spoilerContainer-3wsC0k,
  .spoilerText-27bIiA,
  .spoilerWarning-8ovW0v,
- .staticToolbar-x12NJC,
- .status-15kcmy,
- .status-1ZXjSF,
- .status-JIDx3x,
- .statusDot-1TkcEv,
- .statusDot-jqxHTQ,
+ .staticToolbar__7ef7b,
+ .status__42e87,
+ .status__4454b,
+ .status__5b71e,
+ .statusDot_e2b662,
+ .statusDot_ed8884,
  .stepContainer-SaPPyG,
- .stepCountIcon-1A2Rxd,
+ .stepCountIcon_a27a70,
  .stepIndex-Kqaht-,
- .sticker-H2HhJD,
- .stickerCategory-2f6iSo,
- .streamPreview-I7itZ6,
+ .sticker__25985,
+ .stickerCategory__4891e,
+ .streamPreview__1846c,
  .swatch-35F5kl,
- .swatch-efj8wq,
+ .swatch__96672,
  .switchIcon-QY6cR4,
- .tag-15zcD_,
- .tagRoleColor-1rZDyG,
- .textContainer-36wgKK,
- .thin-31rlnD::-webkit-scrollbar-thumb,
- .threadMessageAccessoryAvatar-17qE_g,
- .thumbnail-1UKMQa,
- .tier-3CS7-p,
- .tier-8XCwAc,
+ .tag__69d9d,
+ .tagRoleColor_c87a06,
+ .textContainer__709ff,
+ .thin_b1c063::-webkit-scrollbar-thumb,
+ .threadMessageAccessoryAvatar__4ccbb,
+ .thumbnail__3dea3,
+ .tier_d16770,
+ .tier__1597c,
  .tier-lFqDUs,
- .tier-R8h9Y_,
+ .tier_d180cf,
  .tier2ColumnOuter-1U2eKO,
- .tierBody-1d3UiS,
+ .tierBody__615a1,
  .tierBody-3ju-rc,
- .tierHeader-3q9jIw,
+ .tierHeader__5bf89,
  .tierHeader-wgo0w_,
  .tierMarker-Vw1C95,
  .tierMarkerLabelText-1wk8KK,
  .tierUnlocked-1yG5Ic,
  .tierWrapper-CsnudO,
- .tile-2mmK5T,
- .tile-2TcwiO,
- .tileBaseContainer-2zuu3-,
- .tileSizer-GVC1ge,
- .timestamp-6-ptG3,
+ .tile_ebc93b,
+ .tile_a411a4,
+ .tileBaseContainer__7c06e,
+ .tileSizer__2e01f,
+ .timestamp_a65714,
  .toast-q3Y4wI,
  .tooltip-14MtrL,
  .tooltip-16UpTB,
- .tooltip-1T4pLi,
- .tooltip-20W1V0,
+ .tooltip_a70a03,
+ .tooltip_ffc2ca,
  .topPill-3DJJNV .item-3XjbnG,
- .triggerMainContainer-274ue5,
- .typingIndicator-KF8hGa,
- .unread-36eUEm,
- .unreadPill-3nEWYM,
- .upload-vLbqu-,
+ .triggerMainContainer_c5139b,
+ .typingIndicator_b21a29,
+ .unread__48cf4,
+ .unreadPill__715fc,
+ .upload_c98ecb,
  .uploadInput-3fblkw,
- .uploadModal-2ie9O_ .footer-VCsJQY,
- .uploadModalIn-2w48Zf .uploadDropModal-13Kd20 .bgScale-1iWuPF,
- .uploadModalIn-2w48Zf .uploadDropModal-13Kd20 .inner-rBP-MS,
- .uploadModalIn-2w48Zf .uploadDropModal-13Kd20.error-3lNz4C,
- .upsellContainer-22N_CL,
- .upsellContainer-2a5eMP,
+ .uploadModal_eae2a0 .footer_ceda43,
+ .uploadModalIn_c0ca4b .uploadDropModal__73a36 .bgScale_f3a2be,
+ .uploadModalIn_c0ca4b .uploadDropModal__73a36 .inner__7afe9,
+ .uploadModalIn_c0ca4b .uploadDropModal__73a36.error_d2567f,
+ .upsellContainer__12e24,
+ .upsellContainer__978df,
  .upsellContainer-3qKRln,
- .upsellContent-10YytV,
- .upsellFooter-3M1V33,
- .upsellOverlay-3sCO8V,
- .upsellOverlayContainer-3NMgTS,
- .upsellTextContainer-2_9JSn,
- .upsellTooltipWrapper-1wqikQ,
+ .upsellContent_b657aa,
+ .upsellFooter__63475,
+ .upsellOverlay__688e8,
+ .upsellOverlayContainer__08979,
+ .upsellTextContainer__62647,
+ .upsellTooltipWrapper_df8272,
  .usagePill-16kKHu,
  .userPopout-29jUdN,
  .userPopout-2j1gM4,
  .userPopoutInner-1v4xcM,
- .video-2HW4jD,
+ .video__4c052,
  .video-8B-TdZ,
- .videoWrapper-1_H3B3,
- .voiceAvatar-lRbblo,
- .warningIcon-1OWXzB,
- .webkit-QgSAqd::-webkit-scrollbar-thumb,
- .welcomeChannel-_Q4qAA,
- .wrapper-1FP9YQ,
- .wrapper-1gVUIN.chatSidebarOpen--YCxhs .callContainer-HtHELf,
- .wrapper-1HIH0j,
+ .videoWrapper__7b3e0,
+ .voiceAvatar__54cc1,
+ .warningIcon_b3d4b2,
+ .webkit__8d35a::-webkit-scrollbar-thumb,
+ .welcomeChannel__0122f,
+ .wrapper__3a7a0,
+ .wrapper_bd2abe.chatSidebarOpen_dfaa6a .callContainer_cbde45,
+ .wrapper_efe67f,
  .wrapper-1VLyxH,
- .wrapper-1wwiGV,
- .wrapper-24fR1R,
- .wrapper-2fEmwW,
- .wrapper-2olG5t,
- .wrapper-2SplAX,
- .wrapper-2vIMkT,
- .wrapper-3mYmFS.ringingIncoming-fibTw-:after,
- .wrapper-3mYmFS.ringingOutgoing-1NjfRn:after,
- .wrapper-3Zq_cJ,
- .wrapper-SdcMKg,
- .wrapper-x4po40,
+ .wrapper__19c60,
+ .wrapper__93f27,
+ .wrapper__5848b,
+ .wrapper__87791,
+ .wrapper_fbbb73,
+ .wrapper_c727b6,
+ .wrapper__0be4c.ringingIncoming__5e70d:after,
+ .wrapper__0be4c.ringingOutgoing_a69e6a:after,
+ .wrapper_a24459,
+ .wrapper__4beb8,
+ .wrapper__5036f,
  .wrapperBase-dMTjVZ,
  .wrapperSimple-Js2rIO,
  .xsmall-14LPsL,
@@ -2067,8 +2067,8 @@ its up to you to fix them or wait for me to eventually fox them*/
  }
 
  .ChannelDms-channelpopout-popout .ChannelDms-channelpopout-collapseButton,
- .liveIndicator-3bhXBF,
- .hue-2nWTuO>div>div>div>div,
+ .liveIndicator__18206,
+ .hue__687e2>div>div>div>div,
  .saturation-white>div>div,
  .timestamp-modal-custom-input {
  	border-radius: 0 !important;
